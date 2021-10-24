@@ -1,4 +1,4 @@
-# netology-homeworks
+# netology-homework
 
 ## Terraform:
 ![img.png](img.png)
